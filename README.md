@@ -1,9 +1,5 @@
 # Teleop Navigation Options
 
-## Browser-based
-
-* Web page and/or Android App via a REST API
-
 ## Software
 
 * Google speech API (https://cloud.google.com/speech/). 
@@ -22,6 +18,7 @@ https://api.ai and https://recast.ai Both make building a bot and processing nat
 The object can either be hand held or it can be an object like a 
 gold fish (http://www.bbc.com/news/av/technology-27241688/smart-tank-time-to-take-the-fish-for-a-walk)
 
+* Web page and/or Android App via a REST API
 
 ## Devices
 
@@ -30,9 +27,6 @@ gold fish (http://www.bbc.com/news/av/technology-27241688/smart-tank-time-to-tak
 * LEAP motion controller (https://www.leapmotion.com)
 
 * Train Amazon Alexa to understand movement commands
-
-
-## Sensors
 
 * IMU 
 
