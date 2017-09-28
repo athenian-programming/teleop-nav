@@ -7,7 +7,7 @@
 * Google vision API (https://cloud.google.com/vision/). Same exercise as speech, but
 using pictures to control a robot.
 
-* Slack bot to learn how to write a chat bot. Cool APIs that we could use include:
+* Slack chat bot. APIs that we could use include:
 https://api.ai and https://recast.ai Both make building a bot and processing natural language really easy.
 
 * Twilio (https://www.twilio.com) to enable control via voice or sms.
