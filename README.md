@@ -2,10 +2,6 @@
 
 ## Browser-based
 
-* Euclid Teleop
-
-* ROS Teleop
-
 * Web page and/or Android App via a REST API
 
 ## Software
@@ -29,15 +25,11 @@ gold fish (http://www.bbc.com/news/av/technology-27241688/smart-tank-time-to-tak
 
 ## Devices
 
-* Keyboard control
-
-* [Joystick](https://www.amazon.com/Logitech-963290-0403-Extreme-Joystick-Windows/dp/B00009OY9U/ref=lp_402048011_1_1?s=videogames&ie=UTF8&qid=1506230642&sr=1-1)
-
 * [Myo](https://www.myo.com/) control
 
 * LEAP motion controller (https://www.leapmotion.com)
 
-* Amazon Alexa to understand movement commands
+* Train Amazon Alexa to understand movement commands
 
 
 ## Sensors
