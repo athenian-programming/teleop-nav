@@ -1,11 +1,20 @@
 # Teleop Navigation Options
 
+## Hardware
+
+* [ROS Bot](https://www.rosbots.com)
+* [Magni Robot](https://ubiquityrobotics.com)
+* [TurtleBot3](http://www.robotis.us/turtlebot-3/)
+
+
 ## Software
 
-* Google speech API (https://cloud.google.com/speech/). 
+* [Google Speech API](https://cloud.google.com/speech/). 
 
-* Google vision API (https://cloud.google.com/vision/). Same exercise as speech, but
+* [Google vision API](https://cloud.google.com/vision/). Same exercise as speech, but
 using pictures to control a robot.
+
+* OCR using Google Vision API (https://hackernoon.com/optical-character-recognition-with-google-cloud-vision-api-255bb8241235)
 
 * Slack chat bot. APIs that we could use include:
 https://api.ai and https://recast.ai Both make building a bot and processing natural language really easy.
@@ -21,6 +30,10 @@ gold fish (http://www.bbc.com/news/av/technology-27241688/smart-tank-time-to-tak
 * Web page and/or Android App via a REST API
 
 ## Devices
+
+* [Adafruit Bonnet](https://www.adafruit.com/product/4085)
+
+* [Google AIY Vision KitV](https://aiyprojects.withgoogle.com/vision/)
 
 * [Myo](https://www.myo.com/) control
 
