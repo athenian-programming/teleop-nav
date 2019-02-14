@@ -19,7 +19,7 @@ using pictures to control a robot.
 * Slack chat bot. APIs that we could use include:
 https://api.ai and https://recast.ai Both make building a bot and processing natural language really easy.
 
-* Twilio (https://www.twilio.com) to enable control via voice or sms.
+* [Twilio](https://www.twilio.com) to enable control via voice or sms.
 
 * Face expressions (https://azure.microsoft.com/en-us/services/cognitive-services/emotion/)
 
@@ -37,7 +37,7 @@ gold fish (http://www.bbc.com/news/av/technology-27241688/smart-tank-time-to-tak
 
 * [Myo](https://www.myo.com/) control
 
-* LEAP motion controller (https://www.leapmotion.com)
+* [LEAP motion controller](https://www.leapmotion.com)
 
 * Train Amazon Alexa to understand movement commands
 
@@ -45,4 +45,4 @@ gold fish (http://www.bbc.com/news/av/technology-27241688/smart-tank-time-to-tak
 
 * 360 degree lidar to interpret hand angles and distances.
 
-* Build a glove with these (https://www.adafruit.com/product/182) embedded and sense finger curls.
+* Build a glove with [these](https://www.adafruit.com/product/182) embedded and sense finger curls.
