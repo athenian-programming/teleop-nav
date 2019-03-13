@@ -1,6 +1,6 @@
 # Teleop Navigation Options
 
-## Hardware
+## Robots
 
 * [ROS Bot](https://www.rosbots.com)
 * [TurtleBot3](http://www.robotis.us/turtlebot-3/)
