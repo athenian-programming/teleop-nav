@@ -36,8 +36,8 @@ The object can either be hand held or it can be an object like a
 * Train [Amazon Alexa](https://developer.amazon.com/docs/custom-skills/steps-to-build-a-custom-skill.html) 
 to understand movement commands
 
-* Hand-held [IMU](https://www.adafruit.com/product/2472) 
+* Hand-held [IMU](https://www.adafruit.com/product/2472).
 
-* 360 degree lidar to interpret hand angles and distances.
+* [360 degree lidar](https://www.adafruit.com/product/4010) to interpret hand angles and distances.
 
 * Build a glove with [these](https://www.adafruit.com/product/182) embedded and sense finger curls.
